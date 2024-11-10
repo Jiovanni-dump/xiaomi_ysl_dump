@@ -1,0 +1,2 @@
+system/priv-app/MiBrowserGlobal/MiBrowserGlobal.apk.xz
+system/priv-app/Velvet/Velvet.apk.xz
